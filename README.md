@@ -1,3 +1,5 @@
+<img src="[이미지 URL](https://github.com/2shin0/Online-IT-Education-Influx-Prediction/assets/161694701/66ae41d2-f586-4a9e-92ec-ef8ca095f1d1)" alt="대체 텍스트" width="200px">
+
 ![결과 보고서_1](https://github.com/2shin0/Online-IT-Education-Influx-Prediction/assets/161694701/66ae41d2-f586-4a9e-92ec-ef8ca095f1d1){width=50%}
 ![결과 보고서_2](https://github.com/2shin0/Online-IT-Education-Influx-Prediction/assets/161694701/c1c1eb34-02ee-4a2f-8b6e-9cdb39919409){width=50%}
 ![결과 보고서_3](https://github.com/2shin0/Online-IT-Education-Influx-Prediction/assets/161694701/d16de538-10d0-4ee0-9982-482f9420fe7d){width=50%}
