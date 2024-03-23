@@ -1,4 +1,4 @@
-### 📌<천재교육 Genia Academy 프로젝트 기반 빅데이터 서비스 개발자 양성과정 6기> 두 번째 팀 프로젝트 결과물입니다.
+#### 📌<천재교육 Genia Academy 프로젝트 기반 빅데이터 서비스 개발자 양성과정 6기> 두 번째 팀 프로젝트 결과물입니다.
 
 ![결과 보고서_1](https://github.com/2shin0/Online-IT-Education-Influx-Prediction/assets/161694701/66ae41d2-f586-4a9e-92ec-ef8ca095f1d1)
 ![결과 보고서_2](https://github.com/2shin0/Online-IT-Education-Influx-Prediction/assets/161694701/c1c1eb34-02ee-4a2f-8b6e-9cdb39919409)
