@@ -1,7 +1,7 @@
 # 온라인 IT 교육 유입 요인 분석
 📌<천재교육 Genia Academy 프로젝트 기반 빅데이터 서비스 개발자 양성과정 6기> 첫 번째 팀 프로젝트 결과물입니다.
 
-![결과 보고서_1](https://github.com/2shin0/Online-IT-Education-Influx-Prediction/assets/161694701/66ae41d2-f586-4a9e-92ec-ef8ca095f1d1)
+![크롤링 프로젝트 결과 보고서_1](https://github.com/2shin0/Online-IT-Education-Influx-Prediction/assets/161694701/c7199d62-bb70-4f63-b00c-05f6449f9955)
 ![결과 보고서_2](https://github.com/2shin0/Online-IT-Education-Influx-Prediction/assets/161694701/c1c1eb34-02ee-4a2f-8b6e-9cdb39919409)
 ![결과 보고서_3](https://github.com/2shin0/Online-IT-Education-Influx-Prediction/assets/161694701/d16de538-10d0-4ee0-9982-482f9420fe7d)
 ![결과 보고서_4](https://github.com/2shin0/Online-IT-Education-Influx-Prediction/assets/161694701/9f8aa1be-0c07-4d9a-aaaf-58bbdbecc256)
